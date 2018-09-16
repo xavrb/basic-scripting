@@ -10,7 +10,7 @@ A list of simple scripts I've worked on.
 
 * [Script to create a book's directory tree](https://github.com/xavrb/genBookTree)  
 * [Geometric art, automation of another Go module](https://github.com/xavrb/geometricArt)  
-  
+* [My CV](https://github.com/xavrb/cv)    
 
 ## Perl  
 
